@@ -1,5 +1,5 @@
 {
-    "name": "easyswoole/crontab",
+    "name": "fei11/crontab",
     "description": "easyswoole extension tool library",
     "type": "library",
     "license": "Apache-2.0",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "easyswoole/component": "^2.0",
+        "fei11/component": "*",
         "dragonmantank/cron-expression": "^2.2"
     },
     "autoload": {
